@@ -1,0 +1,167 @@
+-- The C compiler identification is GNU 9.4.0
+-- The CXX compiler identification is GNU 9.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 1.1.5 (/opt/ros/galactic/share/ament_cmake/cmake)
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Found ament_lint_auto: 0.10.7 (/opt/ros/galactic/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/user/ros2_ws/src/build/rb1_ros2_description
+-- Install configuration: ""
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//launch
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//launch/rb1_ros2_xacro.launch.py
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//config
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//config/rb1_controller.yaml
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//hardware
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//ros2_control
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//ros2_control/ros2_control.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/others
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/others/rb1_torso_ur3.dae
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/others/rb1_kinova_base-v1.stl
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/others/rb1_kinova_base-v1.dae
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/others/tayg_box_6415.stl
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/others/rb1_torso_ur3.stl
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/elevator
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/elevator/rb1_elevator_base.dae
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/elevator/rb1_elevator_platform.stl
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/elevator/rb1_elevator_platform.dae
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/elevator/rb1_elevator_base.stl
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/wheels
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/wheels/wheel_omni_4inch.dae
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/wheels/wheel_rubber_6inch.dae
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/wheels/rb1v3_omniwheel.stl
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/wheels/rb1v3_rubberwheel_6inch.stl
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/wheels/rb1v2_omniwheel.dae
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/wheels/rb1v2_omniwheel.stl
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/wheels/wheel_rubber_6inch.stl
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/wheels/wheel_omni_4inch.stl
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/wheels/rb1v3_rubberwheel_6inch.dae
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/wheels/rb1v3_omniwheel.dae
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/bases
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/bases/rb1v2_base.dae
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/bases/rb1_base_v3.stl
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/bases/rb1v1_base.dae
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/bases/rb1v2_base.stl
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/bases/rb1_base_v3.dae
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/bases/rb1v1_base.stl
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/bases/rb1v2_front_cover.stl
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/bases/rb1_front_cover_v3.stl
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/bases/rb1v2_front_cover.dae
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/bases/rb1v0_base.dae
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/bases/rb1_top_cover_v3.stl
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/bases/rb1v3_base.stl
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/bases/rb1_top_cover_v3.dae
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/bases/rb1v0_base.stl
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/bases/rb1_front_cover_v3.dae
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//meshes/bases/rb1v3_base.dae
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/intel_d455.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/sick_microscan3.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/teltonika_antenna_combo.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/pilz_psen_scan.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/pointgrey_bumblebee2.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/vectornav.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/roboteq_mgs.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/intel_d435.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/kinect.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/ublox.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/velodyne_vlp16.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/intel_r430.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/teraranger_tr_duo.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/gps.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/rubedos_viper.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/rslidar.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/rplidar_a2.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/sick_tim551.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/rslidar_mems.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/common.gazebo.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/all_sensors.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/fotonic_e.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/axis.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/kinectv2.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/orbbec_astra.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/sick_s300.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/embedded_s.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/onrobot_eyes.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/axis_q8641.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/sick_s3000.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/pantilt.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/gps_with_mast.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/yujin_yrl.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/rs_helios_16p.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/imu_hector_plugin.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/utils
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/utils/material.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/utils/inertia.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/rplidar.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/sick_outdoorscan3.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/flir_ax8.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/imu.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/sick_nanoscan3.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/benewake_ce30d.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/elevator
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/elevator/elevator.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/elevator/elevator.gazebo.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/asus_xtion_pro.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/ouster1.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/ueye_cp_gige.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/zed2.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/hokuyo_ust10lx.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/wheels
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/wheels/rubber_wheel.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/wheels/rubber_wheel.gazebo.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/wheels/omni_wheel.gazebo.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/wheels/omni_wheel.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/hokuyo3d.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/ydlidar_4f.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/hokuyo_utm30lx.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/lidar_mast.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/axis_m5525.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/benewake_ce30.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/hokuyo_urg04lx.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/azure_kinect.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/zed.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/axis_m5013.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/hokuyo_ust20lx.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/sick_tim571.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/bases
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/bases/rb1_base_v3.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/sick_mls.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/rs_bpearl.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/hokuyo_uam05lp.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//urdf/lidar_m10_p.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description//xacro/rb1_ros2_base.urdf.xacro
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/ament_index/resource_index/package_run_dependencies/rb1_ros2_description
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/ament_index/resource_index/parent_prefix_path/rb1_ros2_description
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description/environment/ament_prefix_path.sh
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description/environment/ament_prefix_path.dsv
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description/environment/path.sh
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description/environment/path.dsv
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description/local_setup.bash
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description/local_setup.sh
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description/local_setup.zsh
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description/local_setup.dsv
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description/package.dsv
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/ament_index/resource_index/packages/rb1_ros2_description
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description/cmake/rb1_ros2_descriptionConfig.cmake
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description/cmake/rb1_ros2_descriptionConfig-version.cmake
+-- Installing: /home/user/ros2_ws/src/install/rb1_ros2_description/share/rb1_ros2_description/package.xml

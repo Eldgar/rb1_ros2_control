@@ -1,0 +1,36 @@
+[2.465s] Invoking command in '/home/user/ros2_ws/src/ros2_control_demos/ros2_control_demo_testing': PYTHONPATH=/home/user/ros2_ws/src/install/ros2_control_demo_testing/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/ros2_control_demo_testing build --build-base /home/user/ros2_ws/src/build/ros2_control_demo_testing/build install --prefix /home/user/ros2_ws/src/install/ros2_control_demo_testing --record /home/user/ros2_ws/src/build/ros2_control_demo_testing/install.log --single-version-externally-managed
+[2.720s] running egg_info
+[2.720s] creating ../../build/ros2_control_demo_testing/ros2_control_demo_testing.egg-info
+[2.720s] writing ../../build/ros2_control_demo_testing/ros2_control_demo_testing.egg-info/PKG-INFO
+[2.721s] writing dependency_links to ../../build/ros2_control_demo_testing/ros2_control_demo_testing.egg-info/dependency_links.txt
+[2.721s] writing entry points to ../../build/ros2_control_demo_testing/ros2_control_demo_testing.egg-info/entry_points.txt
+[2.721s] writing requirements to ../../build/ros2_control_demo_testing/ros2_control_demo_testing.egg-info/requires.txt
+[2.721s] writing top-level names to ../../build/ros2_control_demo_testing/ros2_control_demo_testing.egg-info/top_level.txt
+[2.788s] writing manifest file '../../build/ros2_control_demo_testing/ros2_control_demo_testing.egg-info/SOURCES.txt'
+[2.822s] reading manifest file '../../build/ros2_control_demo_testing/ros2_control_demo_testing.egg-info/SOURCES.txt'
+[2.822s] writing manifest file '../../build/ros2_control_demo_testing/ros2_control_demo_testing.egg-info/SOURCES.txt'
+[2.822s] running build
+[2.823s] running build_py
+[2.823s] creating /home/user/ros2_ws/src/build/ros2_control_demo_testing/build
+[2.823s] creating /home/user/ros2_ws/src/build/ros2_control_demo_testing/build/lib
+[2.823s] creating /home/user/ros2_ws/src/build/ros2_control_demo_testing/build/lib/ros2_control_demo_testing
+[2.823s] copying ros2_control_demo_testing/test_utils.py -> /home/user/ros2_ws/src/build/ros2_control_demo_testing/build/lib/ros2_control_demo_testing
+[2.823s] copying ros2_control_demo_testing/__init__.py -> /home/user/ros2_ws/src/build/ros2_control_demo_testing/build/lib/ros2_control_demo_testing
+[2.823s] running install
+[2.824s] running install_lib
+[2.825s] creating /home/user/ros2_ws/src/install/ros2_control_demo_testing/lib/python3.8/site-packages/ros2_control_demo_testing
+[2.825s] copying /home/user/ros2_ws/src/build/ros2_control_demo_testing/build/lib/ros2_control_demo_testing/test_utils.py -> /home/user/ros2_ws/src/install/ros2_control_demo_testing/lib/python3.8/site-packages/ros2_control_demo_testing
+[2.825s] copying /home/user/ros2_ws/src/build/ros2_control_demo_testing/build/lib/ros2_control_demo_testing/__init__.py -> /home/user/ros2_ws/src/install/ros2_control_demo_testing/lib/python3.8/site-packages/ros2_control_demo_testing
+[2.826s] byte-compiling /home/user/ros2_ws/src/install/ros2_control_demo_testing/lib/python3.8/site-packages/ros2_control_demo_testing/test_utils.py to test_utils.cpython-38.pyc
+[2.828s] byte-compiling /home/user/ros2_ws/src/install/ros2_control_demo_testing/lib/python3.8/site-packages/ros2_control_demo_testing/__init__.py to __init__.cpython-38.pyc
+[2.828s] running install_data
+[2.828s] creating /home/user/ros2_ws/src/install/ros2_control_demo_testing/share/ament_index
+[2.828s] creating /home/user/ros2_ws/src/install/ros2_control_demo_testing/share/ament_index/resource_index
+[2.828s] creating /home/user/ros2_ws/src/install/ros2_control_demo_testing/share/ament_index/resource_index/packages
+[2.829s] copying resource/ros2_control_demo_testing -> /home/user/ros2_ws/src/install/ros2_control_demo_testing/share/ament_index/resource_index/packages
+[2.829s] copying package.xml -> /home/user/ros2_ws/src/install/ros2_control_demo_testing/share/ros2_control_demo_testing
+[2.829s] running install_egg_info
+[2.831s] Copying ../../build/ros2_control_demo_testing/ros2_control_demo_testing.egg-info to /home/user/ros2_ws/src/install/ros2_control_demo_testing/lib/python3.8/site-packages/ros2_control_demo_testing-0.0.0-py3.8.egg-info
+[2.832s] running install_scripts
+[2.850s] writing list of installed files to '/home/user/ros2_ws/src/build/ros2_control_demo_testing/install.log'
+[2.871s] Invoked command in '/home/user/ros2_ws/src/ros2_control_demos/ros2_control_demo_testing' returned '0': PYTHONPATH=/home/user/ros2_ws/src/install/ros2_control_demo_testing/lib/python3.8/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 setup.py egg_info --egg-base ../../build/ros2_control_demo_testing build --build-base /home/user/ros2_ws/src/build/ros2_control_demo_testing/build install --prefix /home/user/ros2_ws/src/install/ros2_control_demo_testing --record /home/user/ros2_ws/src/build/ros2_control_demo_testing/install.log --single-version-externally-managed

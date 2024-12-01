@@ -1,0 +1,4 @@
+source;share/rb1_ros2_description/local_setup.bash
+source;share/rb1_ros2_description/local_setup.dsv
+source;share/rb1_ros2_description/local_setup.sh
+source;share/rb1_ros2_description/local_setup.zsh
